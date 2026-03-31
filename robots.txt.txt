@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://JaylinSimulationArchive.github.io/archive/sitemap.xml
